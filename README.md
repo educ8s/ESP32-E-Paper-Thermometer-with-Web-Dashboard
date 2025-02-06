@@ -71,7 +71,7 @@ The 3D-printed case is designed for aesthetics and functionality. The following 
 - **USB Breakout Access:** Allows for easier power connection.
 - **Stable Stand:** Adjusted port positioning for an upright display.
 
-You can find the 3D model files [here](https://your_link_to_files).
+You can find the 3D model files [here](https://www.printables.com/model/1180113-esp32-project-e-paper-thermometer-with-web-dashboa).
 
 ## How to Use
 1. Flash the firmware to the ESP32 board.
