@@ -48,6 +48,8 @@ The project follows an object-oriented programming approach for better maintaina
 - **`Display.cpp` & `Display.h`** – Manages rendering data on the E-paper display.
 - **`index_html.h`** – Hosts the web-based dashboard.
 - **`ESP32_HomeDashboard.ino`** – Main program logic, handling updates and communication.
+- 
+If you're new to Object-Oriented Programming or want to master it, check out my course [Object Oriented Progamming Made Easy](https://bit.ly/3NaMfg4)
 
 ## Web Dashboard
 The built-in web server displays live and historical data with intuitive graphs. Simply access the device's local IP in a browser to view:
