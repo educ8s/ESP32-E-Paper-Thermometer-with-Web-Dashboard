@@ -16,7 +16,7 @@ The case is 3D-printed using wood filament, giving it an authentic vintage look,
 ## Video Tutorial
 ![ESP32-Powered E-Paper Home Dashboard](preview.jpg)
 
-🎥 [Watch the Full Video Tutorial](https://youtu.be/YOUR_VIDEO_LINK)
+🎥 [Watch the Full Video Tutorial](https://youtu.be/eyifLGnNtt4)
 
 ## Parts List
 Here are the components you need for this build:
