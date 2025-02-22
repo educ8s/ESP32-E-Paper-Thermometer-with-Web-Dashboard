@@ -25,7 +25,7 @@ Here are the components you need for this build:
 |-----------|-------------|---------|
 | **Inkplate2** | E-Paper display board from Soldered | [Buy Here](https://educ8s.tv/part/Inkplate2) |
 | **BME280** | Sensor for temperature, humidity, and barometric pressure | [Buy Here](https://educ8s.tv/part/BME280) |
-| **MicroUSB Breakout** | Power and programming access | [Buy Here](https://educ8s.tv/part/MiniUSBBreakout) |
+| **MicroUSB Breakout** | Power | [Buy Here](https://educ8s.tv/part/MiniUSBBreakout) |
 
 ## Circuit Diagram
 The wiring for this project is extremely simple:
